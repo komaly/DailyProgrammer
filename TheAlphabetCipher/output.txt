@@ -1,0 +1,26 @@
+Encrypting...
+PlainText: Has the package been delivered?
+Encrypted: <P]tXQYnZVGTUVOtFNY]iYIU]eOgIM3
+
+PlainText: The red fox trots quietly at midnight.
+Encrypted: 7XTdUUSdI_gdWb^YVo`ZLUcQ\oPYb]XIQYVMW}
+
+PlainText: Murder on the orient express!
+Encrypted: BhTNTgrQXni[Gi^g\GXctXZZaZfUj
+
+PlainText: The moles snuck into the garden last night
+Encrypted: <JXdS^TGfdY]]E^dO]\QrYNTgITWJTVa_FYcgP\LNc
+
+Decrypting...
+Encrypted: <P]tXQYnZVGTUVOtFNY]iYIU]eOgIM3
+PlainText: Has the package been delivered?
+
+Encrypted: 7XTdUUSdI_gdWb^YVo`ZLUcQ\oPYb]XIQYVMW}
+PlainText: The red fox trots quietly at midnight.
+
+Encrypted: BhTNTgrQXni[Gi^g\GXctXZZaZfUj
+PlainText: Murder on the orient express!
+
+Encrypted: <JXdS^TGfdY]]E^dO]\QrYNTgITWJTVa_FYcgP\LNc
+PlainText: The moles snuck into the garden last night
+
