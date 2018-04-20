@@ -1,0 +1,12 @@
+Input: 12
+Output: 7
+
+Input: 456
+Output: 43
+
+Input: 4567
+Output: 4568
+
+Input: 12345
+Output: 838
+
