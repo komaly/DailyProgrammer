@@ -10,3 +10,6 @@ Output: 4568
 Input: 12345
 Output: 838
 
+Input: 1234567891011
+Output: 2544788
+
