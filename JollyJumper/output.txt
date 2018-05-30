@@ -1,0 +1,5 @@
+The sequence of numbers "4 1 4 2 3" excluding the first number is JOLLY
+The sequence of numbers "5 1 4 2 -1 6" excluding the first number is NOT JOLLY 
+The sequence of numbers "4 19 22 24 21" excluding the first number is NOT JOLLY 
+The sequence of numbers "4 19 22 24 25" excluding the first number is JOLLY
+The sequence of numbers "4 2 -1 0 2" excluding the first number is JOLLY
