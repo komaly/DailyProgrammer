@@ -7,7 +7,7 @@ using namespace std;
 
 //Takes the original word/sentence and the word/sentence
 //that is the end result, and changes the original word/sentence
-//into the resulting word/sentence letter by letter
+//into the resulting word/sentence letter by letter 
 void LetterByLetter::printNewWordLetterByLetter(string original, string result)
 {
 		vector<string> check;
