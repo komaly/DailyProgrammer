@@ -14,7 +14,7 @@ using namespace std;
 
 //Checks if the given sequence of numbers, excluding the first number 
 //(which specifies the number of elements in the sequence) is jolly
-//or not.
+//or not. 
 void jollyJumper(string str)
 {
 	vector<int> array;
