@@ -5,24 +5,7 @@ Sales people get paid using the following formula for the total commission: comm
 profit, with no commission for any product to total less than zero.
 
 Given two matrices showing the sales figure per sales person for each product they sold, and the 
-expenses by product per salesperson, calculate the commission for each sales person.
-
-Example input:
-Revenue 
-
-        Frank   Jane
-Tea       120    145
-Coffee    243    265
-
-Expenses
-
-        Frank   Jane
-Tea       130     59
-Coffee    143    198
-
-Example output:
-                 Frank   Jane
-Commission       6.20   9.49
+expenses by product per salesperson (input file), calculate the commission for each sales person (output file).
 
 
 Taken from Reddits Daily Programmer Challenge #365, 
