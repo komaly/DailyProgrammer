@@ -65,7 +65,7 @@ Output:
 24 steps
 
 
-This program was taken from Reddits Daily Programming Challenge #364, found here:
+This program answers Reddits Daily Programming Challenge #364, found here:
 https://www.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_intermediate_the_ducci/
 
 
