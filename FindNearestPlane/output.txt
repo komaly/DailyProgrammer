@@ -1,0 +1,22 @@
+Information on the nearest plane to the Eiffel Tower, where the latitude is 48.8584 and the longitude is 2.2945: 
+Geodesic distance: 80.54449669919128
+Euclidean distance: 0.7774176740980357
+Call sign: FIN9AH  
+Latitude: 48.1784
+Longitude: 1.9177
+Geometric Altitude: 10370.82
+Country of Origin: Finland
+ICA024 ID: 461fa9
+
+
+Information on the nearest plane to JFK Airport, where the latitude is 40.6413 and the longitude is 73.7781: 
+Geodesic distance: 275.1475520751171
+Euclidean distance: 2.504866387654238
+Call sign: MBB193  
+Latitude: 43.0774
+Longitude: 74.361
+Geometric Altitude: 3284.22
+Country of Origin: Kyrgyzstan
+ICA024 ID: 6010ac
+
+
