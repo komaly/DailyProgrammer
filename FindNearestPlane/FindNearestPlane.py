@@ -1,5 +1,5 @@
 '''
-Calculates the closest plane to a certain llocation given the locations latitude and longitude.
+Calculates the closest plane to a certain location given the locations latitude and longitude.
 '''
 
 from opensky_api import OpenSkyApi
