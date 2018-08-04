@@ -7,11 +7,11 @@ from math import *
 
 EARTH_RADIUS = 6371
 
-'''Calculates the distance between the location and a place using Euclidean Distance'''
+'''Calculates the distance between the location and a plane using Euclidean Distance'''
 def calculateEuclideanDistance(lat, lon, slat, slon):
 	return sqrt((slat - lat)**2 + (slon - lon)**2)
 
-'''Calculates the distance between the location and a place using Geodesic Distance'''
+'''Calculates the distance between the location and a plane using Geodesic Distance'''
 def calculateGeodesicDistance(lat, lon, slat, slon):
 	absDiffOfLats = abs(lat - slat)
 	absDiffOfLons = abs(lon - slon)
