@@ -14,9 +14,9 @@ For this text, there are 3 rows and 9 columns. All punctuation and spaces are st
 the grid is a letter of the text. If the text doesn't fill the grid perfectly, the empty spaces are filled
 with an X. For this text, the grid looks like this:
 
-WEAREDISC
-OVEREDFLE
-EATONCEXX
+(row1)WEAREDISC
+(row2)OVEREDFLE
+(row3)EATONCEXX
 
 The encryption and decryption start at the top right of the grid, and spiral in either a clockwise or 
 counter clockwise direction. The direction of the spiral is specified in the input as well. The order 
