@@ -1,0 +1,22 @@
+Clockwise encryption/decryption: 
+Original Text: WE ARE DISCOVERED. FLEE AT ONCE
+Encrypted Text: CEXXECNOTAEOWEAREDISLFDEREV
+Decrypted Text: WEAREDISCOVEREDFLEEATONCEXX
+
+Original Text: For lunch let's have peanut-butter and bologna sandwiches
+Encrypted Text: LHSENURBGAISEHCNNOATUPHLUFORCTVABEDOSWDALNTTEAEN
+Decrypted Text: FORLUNCHLETSHAVEPEANUTBUTTERANDBOLOGNASANDWICHES
+
+Original Text: I've even witnessed a deer in the road.
+Encrypted Text: IDRXXXXXXXXXXOETIVEEVENWAEXXXXXDAENESSEDHTNIR
+Decrypted Text: IVEEVENWITNESSEDADEERINTHEROADXXXXXXXXXXXXXXX
+
+Counter-clockwise encryption/decryption: 
+Original Text: Solving challenges on r/dailyprogrammer is so much fun!!
+Encrypted Text: CGNIVLOSHSYMUCHFUNXXMMLEGNELLAOPERISSOAIADRNROGR
+Decrypted Text: SOLVINGCHALLENGESONRDAILYPROGRAMMERISSOMUCHFUNXX
+
+Original Text: Why does it say paper jam when there is no paper jam?
+Encrypted Text: YHWDSSPEAHTRSPEAMXJPOIENWJPYTEOIAARMEHENAR
+Decrypted Text: WHYDOESITSAYPAPERJAMWHENTHEREISNOPAPERJAMX
+
