@@ -33,21 +33,6 @@ bool isPrime(int n)
 }
 
 /*
-Saves all possible prime numbers to a file.
-*/
-void saveAllPrimes()
-{
-	int max = numeric_limits<int>::max();
-	std::ofstream o("primeNumbers.txt");
-
-	for (int i = 0; i <= max; i++)
-	{
-		if (isPrime(i))
-			o << i << endl;
-	}
-}
-
-/*
 Finds 3 prime numbers that sum up to the 
 given number.
 */
