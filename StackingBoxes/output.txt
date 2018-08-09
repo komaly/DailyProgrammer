@@ -1,0 +1,28 @@
+Results for making 3 stacks with the boxes 34312332
+Stack: 
+3 3 1 
+3 2 2 
+4 3 
+
+Results for making 3 stacks with the boxes 912743471352
+Stack: 
+9 4 2 1 
+7 5 3 1 
+7 4 3 2 
+
+Results for making 3 stacks with the boxes 42137586
+Stack: 
+6 4 2 
+8 3 1 
+7 5 
+
+Results for making 9 stacks with the boxes 2
+No possible stacks.
+
+Results for making 4 stacks with the boxes 064876318535318
+Stack: 
+7 6 4 0 
+6 5 3 3 
+8 5 3 1 
+8 8 1 
+
