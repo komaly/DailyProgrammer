@@ -37,7 +37,7 @@ public class AddingCalculator
 	}
 
 	/*
-	Helper function to multipy two numbers
+	Helper function to multiply two numbers
 	*/
 	private int mult(int n1, int n2)
 	{
