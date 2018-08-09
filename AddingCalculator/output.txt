@@ -1,0 +1,48 @@
+Enter an equation: 12 + 25
+Solution: 37
+Enter an equation: -30 + 100
+Solution: 70
+Enter an equation: 100 - 30
+Solution: 70
+Enter an equation: 100 - -30
+Solution: 130
+Enter an equation: -25 - 29
+Solution: -54
+Enter an equation: -41 - -10
+Solution: -31
+Enter an equation: 9 * 3
+Solution: 27
+Enter an equation: 9 * -4
+Solution: -36
+Enter an equation: -4 * 8
+Solution: -32
+Enter an equation: -12 * -9
+Solution: 108
+Enter an equation: 100 / 2
+Solution: 50
+Enter an equation: 75 / -3
+Solution: -25
+Enter an equation: -75 / 3
+Solution: -25
+Enter an equation: -75 / -3
+Solution: 25
+Enter an equation: 7 / 3
+Solution: Non integral answer.
+Enter an equation: 0 / 0
+Solution: Undefined
+Enter an equation: 5 ^ 3
+Solution: 125
+Enter an equation: -5 ^ 3
+Solution: -125
+Enter an equation: -8 ^ 3
+Solution: -512
+Enter an equation: -1 ^ 1
+Solution: -1
+Enter an equation: 1 ^ 1
+Solution: 1
+Enter an equation: 0 ^ 5
+Solution: 0
+Enter an equation: 5 ^ 0
+Solution: 1
+Enter an equation: 10 ^ -3
+Solution: Non integral answer 
