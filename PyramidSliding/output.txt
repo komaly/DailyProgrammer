@@ -1,0 +1,8 @@
+Output for input1.txt:
+14
+Output for input2.txt:
+16
+Output for input3.txt:
+465
+Output for input4.txt:
+163691
