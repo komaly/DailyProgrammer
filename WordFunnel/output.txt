@@ -1,0 +1,12 @@
+Word Funnel: Determines if first string, after removing a character, is the same as the second string.
+Original word: leave, changed word: eave. Output -> true
+Original word: reset, changed word: rest. Output -> true
+Original word: dragoon, changed word: dragon. Output -> true
+Original word: eave, changed word: leave. Output -> false
+Original word: sleet, changed word: lets. Output -> false
+Original word: skiff, changed word: ski. Output -> false
+
+Bonus: Finds all words from given text file that can be made by removing one letter from the given string.
+dragon: dragon 
+boats: oats bats bots boas boat 
+affidavit: NULL
