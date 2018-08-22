@@ -4,4 +4,4 @@ This repository contains completed programming challenges from Reddits subreddit
 
 https://www.reddit.com/r/dailyprogrammer/
 
-Challenges are done in either Python, Java, or C++.
+Challenges are done in either Python, Ruby, Java, or C++.
